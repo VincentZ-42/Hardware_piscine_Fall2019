@@ -7,14 +7,14 @@ A 2-week long intensive training in 42RoboLab that focuses on learning how to cr
 2. [Exercise 2](https://cad.onshape.com/documents/5aa94dd47ee4f9833cf51a6c/w/f26e2ebc3e015560c48afab1/e/ed6dd57d91c8e677b4f434b2)
 3. [Exercise 3](https://cad.onshape.com/documents/d2a1b09d8e3759353558f76f/w/ce97e654a34cd9f8f746e489/e/9ddda54613dbea47738c3c72)
 4. [Exercise 4](https://cad.onshape.com/documents/cd2d7b05793c30a79d1946fd/w/815c46945e0d96b94d1c268d/e/9342dc0a27affee6817065fb)
-5. [Exercise 2]
-6. [Exercise 2]
-7. [Exercise 2]
-8. [Exercise 2]
-9. [Exercise 2]
-10. [Exercise 2]
-11. [Exercise 2]
-12. [Exercise 2]
+5. [Exercise 5](https://cad.onshape.com/documents/7630d9a8af719e528168aa9e/w/93f1a9762682f42e89edec25/e/ac1964fb42b832ce516be1b8)
+6. [Exercise 6](https://cad.onshape.com/documents/2eb8c031ca9c68899c675f81/w/991307a9a5d7503740e3448e/e/f7966131dafc9e4685a59e32)
+7. [Exercise 7](https://cad.onshape.com/documents/56b32a70db95344904c2f70e/w/1b12beed56bc0deca57812f3/e/ff116bcae544b7a7d544bf43)
+8. [Exercise 8](https://cad.onshape.com/documents/e00a3df60ec89a61dcdceb58/w/bf835c4f075e58416946054f/e/705206058e103a7cf220c725)
+9. [Exercise 9](https://cad.onshape.com/documents/44ff0e0d080626a609442c65/w/e4f21b575c0efb5153bf1e3a/e/9fd26226159e9f2714c77edf)
+10. [Exercise 10](https://cad.onshape.com/documents/d4e4811eb892607fd0c28490/w/529043d43f53ac2726207aa5/e/514ad6575697b99107393440)
+11. [Exercise 11](https://cad.onshape.com/documents/b66e30c65dc972b31ea730fc/w/ef4e441902e8c019fcacaf68/e/5b8c7056cf07bda015696ea3)
+12. [Exercise 12](https://cad.onshape.com/documents/73020cdea5163f0a8b0340f3/w/066b948de21a5133cc62208e/e/c0cbdedb3f8f638da250ea87)
 
 ### 3D Modeling
 1. 
