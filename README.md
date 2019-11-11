@@ -24,3 +24,5 @@ A 2-week long intensive training in 42RoboLab that focuses on learning how to cr
 5. 
 6. 
 7.
+8.
+9. Lego Block
