@@ -17,7 +17,7 @@ Intensive training in 42RoboLab that focuses on learning how to create 2D drawin
 12. [Exercise 12](https://cad.onshape.com/documents/73020cdea5163f0a8b0340f3/w/066b948de21a5133cc62208e/e/c0cbdedb3f8f638da250ea87)
 
 ### 3D Modeling
-1. [Exercise 3-1](https://cad.onshape.com/documents/bec3a83b0c492d80b387b713/w/94476bcd2ab3fe2f44b56706/e/9b5e5a293babfe6dd71a3fe4)
+1. [click here to view document](https://cad.onshape.com/documents/bec3a83b0c492d80b387b713/w/94476bcd2ab3fe2f44b56706/e/9b5e5a293babfe6dd71a3fe4)
 2. [Exercise 3-2](https://cad.onshape.com/documents/0b6475595da0950b9c97099f/w/cc8d2abd7435d29d3f47c30d/e/dfc5552ec339bfe0f0594616)
 3. [Exercise 3-3](https://cad.onshape.com/documents/54cd7a2579deff40be282264/w/4998819fe038217c5bb1805d/e/e356e2c1b73cf7dc00b4362b)
 4. [Exercise 3-4](https://cad.onshape.com/documents/1c60de95e1a7d2bdf5d58506/w/59864495b6e7db9097a6ffcf/e/ea08dc186c3e630d54135a73)
