@@ -4,7 +4,7 @@ Intensive training in 42RoboLab that focuses on learning how to create 2D drawin
 * The sketches and 3D models were recreated with parametric variables to simulate real-world design applications
 
 ### Sketching
-1. [Exercise 1](https://cad.onshape.com/documents/db0cdd1325439da6d861f81f/w/9fdde3812054e8b56cff66ee/e/92b78f88d790924ba4b22ab2): Concepts: use of common tools, such as creating circles, arcs, slots, and dimensioning.
+1. [Exercise 1](https://cad.onshape.com/documents/db0cdd1325439da6d861f81f/w/9fdde3812054e8b56cff66ee/e/92b78f88d790924ba4b22ab2) -  Concepts: use of common tools, such as creating circles, arcs, slots, and dimensioning.
 2. [Exercise 2](https://cad.onshape.com/documents/5aa94dd47ee4f9833cf51a6c/w/f26e2ebc3e015560c48afab1/e/ed6dd57d91c8e677b4f434b2)
 * Concepts: Mirror, Mirror, and dimensioning tool
 3. [Exercise 3](https://cad.onshape.com/documents/d2a1b09d8e3759353558f76f/w/ce97e654a34cd9f8f746e489/e/9ddda54613dbea47738c3c72)
