@@ -1,6 +1,5 @@
 # Hardware_piscine_Fall2019
-Intensive training in 42RoboLab that focuses on learning how to create 2D drawings and 3D models with Onshape.
-* Onshape is a product development platform that saves sketches and 3D models on a coud workspace. https://www.onshape.com/
+Intensive training in 42RoboLab that focuses on learning how to create 2D drawings and 3D models with Onshape, CAD software on a cloud workspace. More details here: https://www.onshape.com/
 * Please look at pdf files to view exercises
 
 ### Sketching
