@@ -30,7 +30,7 @@ Intensive training in 42RoboLab that focuses on learning how to create 2D drawin
 * Select from 3 options: 1x1, 1xN, or MxN (where N is the number of columns and M is the number of rows) and Lego piece of selected option will be generated according to its dimension. 
 
 ### Creating Sprocket feature with Onshape FeatureScript
----Link Repository here
+---https://github.com/VincentZ-42/Sprocket-Design-with-Onshape-FeatureScript
 
 ### Capstone Project: PaintBot
 ---Link Repository here
