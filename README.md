@@ -1,6 +1,6 @@
 # Hardware_piscine_Fall2019
 Intensive training in 42RoboLab that focuses on learning how to create 2D drawings and 3D models with Onshape, CAD software on a cloud workspace. More details here: https://www.onshape.com/
-* Please look at pdf files to view exercises prompts
+* Please look at pdf files to view exercise prompts
 * The sketches and 3D models were recreated with parametric variables to simulate real-world design applications
 
 ### Sketching
