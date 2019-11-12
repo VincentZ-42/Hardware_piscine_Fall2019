@@ -3,7 +3,7 @@ Intensive training in 42RoboLab that focuses on learning how to create 2D drawin
 * Please look at pdf files to view exercise prompts
 * The sketches and 3D models were recreated with parametric variables to simulate real-world design applications
 
-### [Sketching](https://github.com/VincentZ-42/Hardware_piscine_Fall2019/blob/master/2D%20sketching.pdf)
+### Sketching: [pdf](https://github.com/VincentZ-42/Hardware_piscine_Fall2019/blob/master/2D%20sketching.pdf)
 1. [Exercise 1](https://cad.onshape.com/documents/db0cdd1325439da6d861f81f/w/9fdde3812054e8b56cff66ee/e/92b78f88d790924ba4b22ab2) -  Concepts: use of common tools, such as creating circles, arcs, slots, and dimensioning.
 2. [Exercise 2](https://cad.onshape.com/documents/5aa94dd47ee4f9833cf51a6c/w/f26e2ebc3e015560c48afab1/e/ed6dd57d91c8e677b4f434b2) - Concepts: Mirror, Mirror, and dimensioning tool
 3. [Exercise 3](https://cad.onshape.com/documents/d2a1b09d8e3759353558f76f/w/ce97e654a34cd9f8f746e489/e/9ddda54613dbea47738c3c72) - Concepts: Exercise does not require dimensions, rather proper use of constraints
@@ -17,7 +17,7 @@ Intensive training in 42RoboLab that focuses on learning how to create 2D drawin
 11. [Exercise 11](https://cad.onshape.com/documents/b66e30c65dc972b31ea730fc/w/ef4e441902e8c019fcacaf68/e/5b8c7056cf07bda015696ea3) - Concepts: Circular Pattern
 12. [Exercise 12](https://cad.onshape.com/documents/73020cdea5163f0a8b0340f3/w/066b948de21a5133cc62208e/e/c0cbdedb3f8f638da250ea87) - Concepts: Combination of circular and linear pattern
 
-### 3D Modeling
+### 3D Modeling: [pdf](https://github.com/VincentZ-42/Hardware_piscine_Fall2019/blob/master/3D%20Modeling.pdf)
 1. [Exercise 3-1](https://cad.onshape.com/documents/bec3a83b0c492d80b387b713/w/94476bcd2ab3fe2f44b56706/e/9b5e5a293babfe6dd71a3fe4)
 2. [Exercise 3-2](https://cad.onshape.com/documents/0b6475595da0950b9c97099f/w/cc8d2abd7435d29d3f47c30d/e/dfc5552ec339bfe0f0594616)
 3. [Exercise 3-3](https://cad.onshape.com/documents/54cd7a2579deff40be282264/w/4998819fe038217c5bb1805d/e/e356e2c1b73cf7dc00b4362b) - Concepts: Extruding and creating sketches from faces of extrudes; projected views on Drawings
