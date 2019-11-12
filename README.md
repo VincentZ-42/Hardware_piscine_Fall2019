@@ -28,3 +28,9 @@ Intensive training in 42RoboLab that focuses on learning how to create 2D drawin
 8. [Cut Block](https://cad.onshape.com/documents/8f4e43b41e35c686f7556245/w/25aa31bbc6431a553d07b6a5/e/a5316582f17d1a777d8f32ae) - Concepts: Creating 3-point plane and extrude remove
 9. [Lego Piece](https://cad.onshape.com/documents/26d11274868859a517c3ebf3/w/00c21f290eb2d5cf436570af/e/d0f794803beb6b75d854df45?configuration=Base_length%3D0.008%2Bmeter%3BCol_input%3D8.0%3BList_efTKZxy604AsZ0%3DRowxCol___2x2%3BRow_input%3D3.0) - Concepts: Configuration variables and tables to generate mutiple versions of a similar design
 * Select from 3 options: 1x1, 1xN, or MxN (where N is the number of columns and M is the number of rows) and Lego piece of selected option will be generated according to its dimension. 
+
+### Creating Sprocket feature with Onshape FeatureScript
+---Link Repository here
+
+### Capstone Project: PaintBot
+---Link Repository here
