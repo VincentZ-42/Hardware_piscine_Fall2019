@@ -33,4 +33,4 @@ Intensive training in 42RoboLab that focuses on learning how to create 2D drawin
 ---https://github.com/VincentZ-42/Sprocket-Design-with-Onshape-FeatureScript
 
 ### Capstone Project: PaintBot
----Link Repository here
+---https://github.com/UniKlo/PaintBot
